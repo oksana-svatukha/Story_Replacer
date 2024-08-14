@@ -1,1 +1,1 @@
-This Python program reads a storyline from a file, identifies placeholders enclosed in < and > brackets, allows the user to specify replacements for each placeholder, and finally outputs the storyline with the substitutions made.
+![image](https://github.com/user-attachments/assets/737ec32b-7711-431c-b2d1-ab72d5355b05)
